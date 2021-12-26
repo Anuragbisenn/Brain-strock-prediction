@@ -1,1 +1,1 @@
-# Brain-strock-prediction
+# Brain-stroke-prediction
